@@ -1,4 +1,12 @@
 # SQL-Island-Game-Walkthrough
+![Tool](https://img.shields.io/badge/Tool-SQL-lightgreen?style=flat-square) 
+![Platform](https://img.shields.io/badge/Platform-MySQL%20%7C%20PostgreSQL-blue?style=flat-square)
+![Concepts](https://img.shields.io/badge/Concepts-SELECT%20%7C%20WHERE%20%7C%20JOIN-orange?style=flat-square)
+![Advanced](https://img.shields.io/badge/Advanced-UPDATE%20%7C%20INSERT%20%7C%20DELETE-purple?style=flat-square)
+![Project](https://img.shields.io/badge/Project-SQL%20Island%20Game-brightblue?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)
+
+
 This guide provides a complete, step-by-step walkthrough of the SQL Island game, with every query and a detailed explanation of the SQL concepts used.
 
 # 🗺️ SQL Island Adventure Guide
