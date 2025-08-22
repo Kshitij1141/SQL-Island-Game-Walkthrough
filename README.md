@@ -6,8 +6,9 @@
 ![Project](https://img.shields.io/badge/Project-SQL%20Island%20Game-brightblue?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)
 
-
 This guide provides a complete, step-by-step walkthrough of the SQL Island game, with every query and a detailed explanation of the SQL concepts used.
+
+---
 
 # 🗺️ SQL Island Adventure Guide
 
